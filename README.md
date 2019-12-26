@@ -15,4 +15,4 @@ You can find link to my profile [here](https://www.codewars.com/users/Symbios).
 | Python        | 7             | 5             | 4             | 2             | 0             | 0             | 0             | 18            | 
 | Java          | 2             | 6             | 3             | 0             | 0             | 0             | 0             | 11            | 
 | SQL           | 8             | 1             | 0             | 0             | 0             | 0             | 0             | 9             | 
-| C++           | 0             | 0             | 0             | 0             | 0             | 0             | 0             | 0             | 
+| C++           | 4             | 4             | 1             | 0             | 0             | 0             | 0             | 9             | 
