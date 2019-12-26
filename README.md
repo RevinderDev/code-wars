@@ -3,6 +3,7 @@
 This repository contains mine solutions to the problems on the website https://codewars.com
 
 You can find link to my profile [here](https://www.codewars.com/users/Symbios).
+![Badge](https://www.codewars.com/users/Symbios/badges/large)
 
 ## Solved katas
 
