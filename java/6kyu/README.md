@@ -1,1 +1,6 @@
 1. [Valid bracers](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
+2. [Morse Code Decoder](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+3. [Camel Case](https://www.codewars.com/kata/587731fda577b3d1b0001196)
+4. [Are they same?](https://www.codewars.com/kata/550498447451fbbd7600041c)
+5. [Your Order please?](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+6. [Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
