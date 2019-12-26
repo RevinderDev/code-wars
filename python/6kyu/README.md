@@ -2,3 +2,4 @@
 2. [Highest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 3. [Counting duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 4. [Is prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
+5. [Alphabet position](https://www.codewars.com/kata/546f922b54af40e1e90001da)

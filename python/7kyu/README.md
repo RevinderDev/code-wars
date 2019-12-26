@@ -1,3 +1,7 @@
 1. [Oldest ages](https://www.codewars.com/kata/511f11d355fe575d2c000001)
 2. [Validate pin](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 3. [Binary addition](https://www.codewars.com/kata/551f37452ff852b7bd000139)
+4. [List filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+5. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+6. [Square digits](https://www.codewars.com/kata/546e2562b03326a88e000020)
+7. [Jaden casing](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
