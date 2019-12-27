@@ -4,3 +4,4 @@
 4. [Is prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 5. [Alphabet position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 6. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
+6. [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)
