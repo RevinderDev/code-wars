@@ -12,10 +12,10 @@ You can find link to my profile [here](https://www.codewars.com/users/Symbios).
 
 | Language      | 7kyu          | 6kyu          | 5kyu          | 4kyu          | 3kyu          | 2kyu          | 1kyu          | Total         |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Python        | 7             | 7             | 5             | 3             | 0             | 0             | 0             | 22            | 
-| Java          | 2             | 6             | 3             | 0             | 0             | 0             | 0             | 11            | 
-| SQL           | 8             | 1             | 0             | 0             | 0             | 0             | 0             | 9             | 
-| C++           | 4             | 4             | 1             | 0             | 0             | 0             | 0             | 9             | 
+| Python        | 7             | 7             | 5             | 4             | 0             | 0             | 0             | 22            | 
+| Java          | 2             | 6             | 4             | 0             | 0             | 0             | 0             | 11            |
+| SQL           | 8             | 1             | 0             | 0             | 0             | 0             | 0             | 9             |
+| C++           | 4             | 4             | 1             | 0             | 0             | 0             | 0             | 9             |
 
 
 ## Ranking meaning
@@ -95,7 +95,7 @@ At this level kata require a mature understanding of complex programming concept
 - Basic interpreters and compilers
 - Basic mini-programs with multiple feature requirements (such as a basic markdown parser)
 
-### 1 Kyu 
+### 1 Kyu
 
 1 kyu kata represent a proficient programming level.
 At this level kata are similar to 2 kyu but more challenging.
