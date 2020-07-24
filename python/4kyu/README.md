@@ -1,3 +1,5 @@
 1. [Observed Pin](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 2. [Nested Structure](https://www.codewars.com/kata/520446778469526ec0000001)
 3. [Codewars style ranking System](https://www.codewars.com/kata/51fda2d95d6efda45e00004e)
+4. [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+5. [Most frequently used words in a text (top3 words)](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
