@@ -2,3 +2,4 @@
 2. [Loop inspector](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
 3. [Direction Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 4. [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)
+5. [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a)
