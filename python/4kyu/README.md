@@ -3,3 +3,4 @@
 3. [Codewars style ranking System](https://www.codewars.com/kata/51fda2d95d6efda45e00004e)
 4. [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 5. [Most frequently used words in a text (top3 words)](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+6. [How many numbers III?](https://www.codewars.com/kata/5877e7d568909e5ff90017e6)
