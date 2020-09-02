@@ -3,10 +3,10 @@
 This repository contains mine solutions to the different problems on the website https://codewars.com
 Important to understand is that they are not to be compiled or run, rather to look for actual solution.
 
-You can find link to my profile [here](https://www.codewars.com/users/Symbios).
+You can find link to my profile [here](https://www.codewars.com/users/Revinder).
 
 
-![Badge](https://www.codewars.com/users/Symbios/badges/large)
+![Badge](https://www.codewars.com/users/Revinder/badges/large)
 
 ## Solved katas
 
