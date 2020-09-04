@@ -4,3 +4,4 @@
 4. [Are they same?](https://www.codewars.com/kata/550498447451fbbd7600041c)
 5. [Your Order please?](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 6. [Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
+7. [Count Smileys](https://www.codewars.com/kata/583203e6eb35d7980400002a)
