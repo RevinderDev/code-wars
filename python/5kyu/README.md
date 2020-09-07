@@ -4,3 +4,4 @@
 4. [Calculation with functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 5. [RGB to Hex](https://www.codewars.com/kata/rgb-to-hex-conversion/)
 6. [Memoized Fibonacci Solutions](https://www.codewars.com/kata/529adbf7533b761c560004e5)
+7. [First non repeating character](codewars.com/kata/52bc74d4ac05d0945d00054e)

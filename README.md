@@ -12,7 +12,7 @@ You can find link to my profile [here](https://www.codewars.com/users/Revinder).
 
 | Language      | 7kyu          | 6kyu          | 5kyu          | 4kyu          | 3kyu          | 2kyu          | 1kyu          | Total         |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Python        | 7             | 7             | 6             | 6             | 1             | 0             | 0             | 27            |
+| Python        | 7             | 7             | 7             | 6             | 1             | 0             | 0             | 28            |
 | Java          | 3             | 7             | 6             | 2             | 0             | 0             | 0             | 18            |
 | SQL           | 8             | 1             | 0             | 0             | 0             | 0             | 0             | 9             |
 | C++           | 4             | 4             | 1             | 0             | 0             | 0             | 0             | 9             |
