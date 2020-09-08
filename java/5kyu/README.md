@@ -4,3 +4,4 @@
 4. [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)
 5. [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a)
 6. [Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513)
+7. [Best Travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
