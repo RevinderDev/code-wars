@@ -7,3 +7,4 @@
 7. [Right and left](https://www.codewars.com/kata/5943a58f95d5f72cb900006a)
 8. [Best selling book](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
 9. [Create func](https://www.codewars.com/kata/580fe518cefeff16d00000c0)
+10. [Bytes in string](https://www.codewars.com/kata/59491429952ac97ad9000106)
