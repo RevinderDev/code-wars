@@ -6,3 +6,4 @@
 6. [Basics: Power](https://www.codewars.com/kata/594a8f653b5b4e8f3d000035)
 7. [Right and left](https://www.codewars.com/kata/5943a58f95d5f72cb900006a)
 8. [Best selling book](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
+9. [Create func](https://www.codewars.com/kata/580fe518cefeff16d00000c0)
