@@ -8,3 +8,4 @@
 8. [Best selling book](https://www.codewars.com/kata/591127cbe8b9fb05bd00004b)
 9. [Create func](https://www.codewars.com/kata/580fe518cefeff16d00000c0)
 10. [Bytes in string](https://www.codewars.com/kata/59491429952ac97ad9000106)
+11. [Trimming the field](https://www.codewars.com/kata/59401c25c15cbeb58d000028)
