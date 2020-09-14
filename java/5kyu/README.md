@@ -6,3 +6,4 @@
 6. [Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513)
 7. [Best Travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
 8. [Gap in primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)
+9. [Maximum subarray](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
