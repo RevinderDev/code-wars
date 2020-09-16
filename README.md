@@ -15,7 +15,7 @@ You can find link to my profile [here](https://www.codewars.com/users/Revinder).
 | Python        | 7             | 7             | 7             | 6             | 1             | 0             | 0             | 28            |
 | Java          | 3             | 7             | 9             | 2             | 0             | 0             | 0             | 21            |
 | Kotlin        | 0             | 1             | 0             | 0             | 0             | 0             | 0             | 1             |
-| SQL           | 11            | 3             | 0             | 0             | 0             | 0             | 0             | 14            |
+| SQL           | 12            | 3             | 0             | 0             | 0             | 0             | 0             | 15            |
 | C++           | 4             | 4             | 1             | 0             | 0             | 0             | 0             | 9             |
 
 
