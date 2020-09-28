@@ -4,3 +4,4 @@
 4. [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 5. [Most frequently used words in a text (top3 words)](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 6. [How many numbers III?](https://www.codewars.com/kata/5877e7d568909e5ff90017e6)
+7. [Catching Car Mileage Numbers](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
