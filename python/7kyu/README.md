@@ -5,3 +5,4 @@
 5. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 6. [Square digits](https://www.codewars.com/kata/546e2562b03326a88e000020)
 7. [Jaden casing](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+8. [Nth digit](https://www.codewars.com/kata/577b9960df78c19bca00007e)

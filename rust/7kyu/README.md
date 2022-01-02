@@ -1,9 +1,15 @@
-1. (Vowel Count)[https://www.codewars.com/kata/54ff3102c1bad923760001f3]
-2. (Exes and Ohs)[https://www.codewars.com/kata/55908aad6620c066bc00002a]
-3. (Odd or Even)[https://www.codewars.com/kata/5949481f86420f59480000e7]
-4. (Ones and Zeros)[https://www.codewars.com/kata/578553c3a1b8d5c40300037c]
-5. (Shortest Word)[https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9]
-6. (Complementary DNA)[https://www.codewars.com/kata/554e4a2f232cdd87d9000038]
-7. (Row Weights)[https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9]
-8. (Sort Out the Man from Boys)[https://www.codewars.com/kata/5af15a37de4c7f223e00012d]
-9. (Sort Numbers)[https://www.codewars.com/kata/5174a4c0f2769dd8b1000003]
+1. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+2. [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
+3. [Odd or Even](https://www.codewars.com/kata/5949481f86420f59480000e7)
+4. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+5. [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+6. [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+7. [Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
+8. [Sort Out the Man from Boys](https://www.codewars.com/kata/5af15a37de4c7f223e00012d)
+9. [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
+10. [Decimal Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
+11. [Build a square](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c)
+12. [Speed control](https://www.codewars.com/kata/56484848ba95170a8000004d)
+13. [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+14. [Nth digit](https://www.codewars.com/kata/577b9960df78c19bca00007e)
+15. [All Inclusive](https://www.codewars.com/kata/5700c9acc1555755be00027e)
