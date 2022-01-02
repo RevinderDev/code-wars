@@ -1,7 +1,6 @@
 ## Code wars
 
-This repository contains mine solutions to the different problems on the website https://codewars.com
-Important to understand is that they are not to be compiled or run, rather to look for actual solution.
+This repository contains my solutions to the problems on the website https://codewars.com.
 
 You can find link to my profile [here](https://www.codewars.com/users/Revinder).
 
