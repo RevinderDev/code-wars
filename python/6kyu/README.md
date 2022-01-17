@@ -5,3 +5,4 @@
 5. [Alphabet position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 6. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 7. [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)
+8. [Histogram](https://www.codewars.com/kata/59f44c7bd4b36946fd000052/)

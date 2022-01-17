@@ -11,7 +11,7 @@ You can find link to my profile [here](https://www.codewars.com/users/Revinder).
 
 | Language      | 7kyu          | 6kyu          | 5kyu          | 4kyu          | 3kyu          | 2kyu          | 1kyu          | Total         | Current level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Python        | 8             | 7             | 7             | 7             | 1             | 0             | 0             | 30            | 4kyu          |
+| Python        | 8             | 8             | 7             | 7             | 1             | 0             | 0             | 31            | 4kyu          |
 | Java          | 3             | 7             | 9             | 5             | 1             | 0             | 0             | 24            | 5kyu          |
 | Rust          | 15            | 3             | 0             | 0             | 0             | 0             | 0             | 18            | 6kyu          |
 | SQL           | 12            | 4             | 0             | 0             | 0             | 0             | 0             | 16            | 6kyu          |
